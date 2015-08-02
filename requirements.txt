@@ -1,1 +1,4 @@
 twython
+pyopenssl
+ndg-httpsclient
+pyasn1
